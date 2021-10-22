@@ -1,0 +1,6 @@
+﻿  Controladora.cpp
+C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\SEMANA 8\Project4\Project4\Controladora.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\SEMANA 8\Project4\Project4\Controladora.cpp(55,42): warning C4018: '<': signed/unsigned mismatch
+C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\SEMANA 8\Project4\Project4\Controladora.cpp(71,20): warning C4018: '<': signed/unsigned mismatch
+  Base.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project4.vcxproj -> C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\SEMANA 8\Project4\Debug\1.exe

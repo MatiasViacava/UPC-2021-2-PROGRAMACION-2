@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\TA1\FANTASMA\FANTASMA\Source.cpp(13,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  CFantasma.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FANTASMA.vcxproj -> C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\TA1\FANTASMA\Debug\FANTASMA.exe

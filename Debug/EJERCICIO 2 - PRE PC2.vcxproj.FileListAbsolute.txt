@@ -1,0 +1,3 @@
+C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\SEMANA 12\EJERCICIO 2 - PRE PC2\EJERCICIO 2 - PRE PC2\Debug\EJERCICIO 2 - PRE PC2.vcxprojAssemblyReference.cache
+C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\SEMANA 12\EJERCICIO 2 - PRE PC2\EJERCICIO 2 - PRE PC2\Debug\EJERCICIO2PREPC2.MyForm1.resources
+C:\Users\matia\OneDrive\Desktop\UPC - 2021 -2\PROGRA II\SEMANA 12\EJERCICIO 2 - PRE PC2\EJERCICIO 2 - PRE PC2\Debug\EJERCICIO 2 - PRE PC2.vcxproj.GenerateResource.cache
